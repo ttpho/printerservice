@@ -3,7 +3,6 @@ package ru.alexeyp.printerservice
 import android.content.Context
 import android.net.nsd.NsdManager
 import android.print.PrintManager
-import android.support.v7.app.AppCompatActivity
 import ru.alexeyp.printerservice.model.PrinterInfo
 import ru.alexeyp.printerservice.print_adapters.ByteArrayPrintAdapter
 import ru.alexeyp.printerservice.print_adapters.FilePrintAdapter
